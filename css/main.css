@@ -1,0 +1,12 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+@media only screen and (min-width: 768px) {
+  .carousel-caption h6 {
+    font-size: 48px;
+  }
+  .carousel-caption p {
+    font-size: 22px;
+  }
+}
